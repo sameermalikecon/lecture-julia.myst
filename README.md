@@ -1,7 +1,7 @@
 # lecture-julia.myst
 
 Source for julia.quantecon.org
-**QuantEconTest**
+QuantEconTest
 
 ## Local Development 
 
