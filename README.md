@@ -1,6 +1,7 @@
 # lecture-julia.myst
 
 Source for julia.quantecon.org
+**Sameer Malik**
 
 ## Local Development 
 
